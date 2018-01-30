@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1
 wo shi test2
 wo shi test2
 wo shi test2
+=======
+1
+>>>>>>> parent of d192075... test1 提交
